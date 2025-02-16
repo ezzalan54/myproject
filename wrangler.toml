@@ -1,0 +1,6 @@
+name = "webnation"
+type = "javascript"
+account_id = "253f22690ddb338fd44b7d171bac6ae8"
+workers_dev = true
+compatibility_date = "2025-02-16"
+build = { command = "npm run build", upload = { format = "service-worker" } }
